@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GameBoard
+comment0.text=\r\n\ This\ is\ a\ simple\ game\ where\ you\ join\ together\ boxes\ of\ the\ same\ value\ \r\n\ and\ try\ to\ get\ to\ 2048\r\n\ \r\n\ @author\ Logan\ Batson\r\n\ @version\ 2.0\ -\ Final\ version\r\n
+comment1.params=
+comment1.target=GameBoard()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=boolean\ placeRandomBlock()
+comment2.text=\r\n\ Place\ a\ block\ on\ a\ random\ location\ on\ the\ board\r\n\ \r\n\ @return\ Returns\ true\ if\ successful,\ false\ if\ not\ successful\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ Check\ for\ key\ presses\ and\ tell\ each\ block\ to\ move\ itsself.\r\n
+numComments=4
